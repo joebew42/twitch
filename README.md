@@ -1,6 +1,8 @@
 # joebew42-on-twitch
 
-Hello folks! This repository is to be intended as a *public feedback box* where you can leave a feedback about [**my channel on Twitch**](https://www.twitch.tv/joebew42).
+Hello folks!
+
+This repository is to be intended as a *public feedback box* where you can leave a feedback about [**my channel on Twitch**](https://www.twitch.tv/joebew42).
 
 ## What is the purpose of the channel ?
 
