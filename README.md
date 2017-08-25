@@ -1,4 +1,4 @@
-# joebew42-on-twitch
+# twitch
 
 Hello folks!
 
