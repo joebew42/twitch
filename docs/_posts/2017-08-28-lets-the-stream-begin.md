@@ -12,6 +12,6 @@ At the end, after I made some testing stream sessions and a bit of practice, I d
 
 The channel will be an **experiment**. If you want to know more about how the channel works, read about the official schedule, or how the monthly donation goals works, and other stuff, I invite you to read the channel panels. I would like to share my journey with you and make the channel grow only if you - *viewers* - wants.
 
-So, this space is born with the idea that I will share insights and experiences of journey here. I am proudly to share with you what I think is a useful resource that each broadcaster should consider to make its channel better. It is a guide, that is called [A Guide to Streaming and Finding Success](http://www.overboredgaming.com/guide.html). I have read it, and I liked it so much. It is full of precious!
+So, this space is born with the idea that I will share insights and experiences of my journey. I am proudly to share with you what I think is a useful resource that each broadcaster should consider to make its channel better. It is a guide, that is called [A Guide to Streaming and Finding Success](http://www.overboredgaming.com/guide.html). I have read it, and I liked it so much. It is full of precious!
 
 The next journal update will be released on **September 4th**, when I will officialy start the channel.
