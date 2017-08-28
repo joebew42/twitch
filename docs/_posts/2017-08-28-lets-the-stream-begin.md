@@ -6,7 +6,7 @@ subtitle: My Twitch channel will officially starts on September, 4th.
 
 What could I say? For everyone that does not know anything about me, I introduce myself as an [*Agile Software Developer*](http://joebew42.github.io/about/). You can read more about me by following that link.
 
-During the last year I was quite affascinated by [Twitch](https://twitch.tv), a community in which people can setup their own streaming channel and starts to share experiences with the world. I enjoyed the engagement with the viewers. People can interact with the broadcaster by typing directly in the chat box. It is fantastic and it is real time.
+During the last year I was quite fascinated by [Twitch](https://twitch.tv), a community in which people can setup their own streaming channel and starts to share experiences with the world. I enjoyed the engagement with the viewers. People can interact with the broadcaster by typing directly in the chat box. It is fantastic and it is real time.
 
 At the end, after I made some testing stream sessions and a bit of practice, I decided to start [my own educational channel](https://twitch.tv/joebew42) with the idea to create a community where software developers can join in order to practice, learn and grow around topics like Clean Code, Test-Driven Development and Refactoring. All of these topics will be covered by trying to make contribution to open source projects, or sharing exercise sessions by learning new programming languages or technologies.
 
