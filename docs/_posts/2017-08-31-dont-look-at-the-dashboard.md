@@ -9,7 +9,7 @@ Today I made just 1 hour and 45 minutes of streaming. I did not feel satisfied a
 **What are my feelings about the session**
 
 * I tend to look at the Twitch dashboard too often, this makes the stream not linear.
-* Maybe I talk too much about a topic, I've try to be shorter
+* Maybe I talk too much about a topic, I've try to be shorter.
 
 **What's good**
 
