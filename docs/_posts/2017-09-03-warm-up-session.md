@@ -13,7 +13,7 @@ I continued my session about [learning Elixir](https://github.com/joebew42/elixi
 ## What are my feedbacks about the session
 
 * It's tiring but challenging and satisfying at the same time.
-* The 2 hours format seems to works weel.
+* The 2 hours format seems to works well.
 * I'm happy about new followers, now we are 30!
 
 ## What about tomorrow
