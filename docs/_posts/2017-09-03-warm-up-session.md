@@ -8,7 +8,7 @@ I just finished a *warm up session* of 2 hours, before tomorrow, when I will str
 
 I continued my session about [learning Elixir](https://github.com/joebew42/elixir-playground) by following the practice of Test-Driven Development. I liked the Q&A session with my viewers, I really like to talk with others. One of the question I liked was **Why you decided to start learning Elixir?**, I give here my answer:
 
-> It's fun and easy to learn! It compile byte-code that runs on Erlang virtual machine and basically it inherits all the qualities of Erlang. If you don't know Erlang, it is basically an awesome implementation of what OOP should be, in a functional fashion!
+> It's fun and easy to learn! It compiles byte-code that runs on Erlang virtual machine and basically it inherits all the qualities of Erlang. If you don't know Erlang, it is basically an awesome implementation of what OOP should be, in a functional fashion!
 
 ## What are my feedbacks about the session
 
