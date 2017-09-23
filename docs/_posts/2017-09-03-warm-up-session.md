@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: The warm up session before the 4th of September
 subtitle: Why Elixir? And what I learned?
 ---

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Let's the stream begin
 subtitle: My Twitch channel will officially starts on September, 4th.
 ---

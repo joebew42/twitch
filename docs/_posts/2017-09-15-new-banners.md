@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: New banners and a more meaningful donation goal
 subtitle: For the first time I didn't worry about having new followers
 ---

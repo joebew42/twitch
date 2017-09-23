@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: October is near and the first month is about to end
 subtitle: Towards the last week of September ...
 ---

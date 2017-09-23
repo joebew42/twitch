@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: How to keep a good pace when doing refactoring!
 subtitle: An episode that is worth to be exported on YouTube.
 ---

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Lack of energies, sorry folks!
 subtitle: Learning from the failures.
 ---

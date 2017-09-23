@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Don't look at the Twitch dashboard
 subtitle: Quit the dashboard and don't talk to much
 ---

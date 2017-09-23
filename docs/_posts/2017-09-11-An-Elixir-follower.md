@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: A new follower with same interests
 subtitle: Doing streaming is beautiful
 ---

@@ -92,7 +92,7 @@ url-pretty: "joebew42-on-twitch"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "joebew42-github-io-twitch"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""

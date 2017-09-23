@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Officially live!
 subtitle: Maybe a roadmap could be useful for the next episodes.
 ---

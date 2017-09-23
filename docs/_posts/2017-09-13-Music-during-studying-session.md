@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Let the music play ...
 subtitle: ... during a studying/learning session ...
 ---
