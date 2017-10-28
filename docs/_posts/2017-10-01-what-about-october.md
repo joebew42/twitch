@@ -27,4 +27,4 @@ This will be my minimum set of things:
 - Educational contents (best practices to apply when writing code)
 - Schedule consistency
 - Learning new stuff (programming languages or tools)
-- Contribution to open source projects
+- Contribute to open source projects
