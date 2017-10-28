@@ -22,7 +22,7 @@ I would like to push for an _Organic growth_ of the channel. Instead of _spammin
 
 What about the _Minimum Marketable Features set_, a minimum set of things that can brings value to the market (here the market is you, the developer!).
 
-This will be my minimum set of things is:
+This will be my minimum set of things:
 
 - Educational contents (best practices to apply when writing code)
 - Schedule consistency
