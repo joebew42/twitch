@@ -12,13 +12,13 @@ Also, I will use this space to share useful resources about my experiences on Tw
 
 ## Do you want to leave a feedback?
 
-I use a [github repository as a public feedback box](https://github.com/joebew42/twitch), you can use it to propose your feedback about the Twitch Channel. To leave a feedback you can [open an issue](https://github.com/joebew42/twitch/issues) to:
+I use a github repository as a [public feedback box](https://github.com/joebew42/twitch) so that you can use it to propose a feedback about the Twitch Channel. [Open an issue](https://github.com/joebew42/twitch/issues) to leave a feedback about:
 
 - Propose a content that you would like to see in the next episodes
 - Propose an open source project where to contribute in
 - Propose an improvement of the schedule
 - Propose something that can improve the quality of the channel
 
-**Some requirements to consider before you propose a feedback:**
+**Some requirements to consider before propose a feedback:**
 
 At the moment I am learning Elixir, so I prefer to continue by doing streaming session about Elixir programming language. If you want to propose a content or a project make sure to propose something about Elixir. Thank you!
