@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: The Hacktoberfest 2017: Do it live!
+title: The Hacktoberfest 2017, I made it live!
 subtitle: I tried to stream for eight hours, here is my experience.
 ---
 
