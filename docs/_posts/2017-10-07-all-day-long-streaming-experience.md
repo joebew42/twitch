@@ -26,7 +26,7 @@ During the 3 hours I continued to make some little changes in order to contibute
 - [Update the documentation](https://github.com/rrrene/elixirstatus-web/pull/59)
 - [How to run tests](https://github.com/rrrene/elixirstatus-web/pull/58)
 
-At the end of the straming session the experience was really satisfying but at the same time really tiring:
+At the end of the streaming session the experience was really satisfying but at the same time really tiring:
 
 ## Why really satisfying?
 
