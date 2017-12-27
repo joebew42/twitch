@@ -20,11 +20,13 @@ Here I will share what I think about the _growth_ of the channel
 
 I would like to push for an _Organic growth_ of the channel. Instead of _spamming_ my channel all around the Internet, I prefer to look for the right niche, starting from the smaller one to end up with the bigger one. What I mean about _small_ is for example, local communities, subreddits, dedicated forums, etc. For _big_ I mean Twitter or official channels where I can advertise my channel. Sustain an _organic growth_ let me to validate and build a mature streaming format.
 
-What about the _Minimum Marketable Features set_, a minimum set of things that can brings value to the market (here the market is you, the developer!).
+What about the _Minimum Marketable Features set_, a minimum set of things that can brings value to the market (and here the market is you, the programmer!).
 
-This will be my minimum set of things:
+This will be my **minimum set of things** I would like to bring to you:
 
 - Educational contents (best practices to apply when writing code)
 - Schedule consistency
 - Learning new stuff (programming languages or tools)
 - Contribute to open source projects
+
+I speak to the hungry programmers, _those who are looking for something of valuable that can help them to improve their careers_. What do you think about the idea, about the contents I would like to bring to you through Twitch. If you want to propose something more, you can [open an issue here](https://github.com/joebew42/twitch/issues), I will be glad to read all your feedback!
