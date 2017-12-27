@@ -29,4 +29,4 @@ This will be my **minimum set of things** I would like to bring to you:
 - Learning new stuff (programming languages or tools)
 - Contribute to open source projects
 
-I speak to the hungry programmers, _those who are looking for something of valuable that can help them to improve their careers_. What do you think about the idea, about the contents I would like to bring to you through Twitch? If you want to propose something more, you can [open an issue here](https://github.com/joebew42/twitch/issues), I will be glad to read all your feedback!
+I speak to the hungry programmers, _those who are looking for something of valuable that can help them to improve their careers_. What do you think about the idea and the contents I would like to bring to you through Twitch? If you want to propose something more, you can [open an issue here](https://github.com/joebew42/twitch/issues), I will be glad to read all your feedback!
