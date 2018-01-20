@@ -756,3 +756,9 @@ color: #f1c40f;
 .gist, .gist-file table tr td {
   border: unset;
 }
+
+.center-image
+{
+  margin: 0 auto;
+  display: block;
+}
