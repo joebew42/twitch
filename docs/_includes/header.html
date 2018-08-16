@@ -11,11 +11,12 @@
 		  data-img-src-{{ imgnum }}="{{ imginfo[0] | prepend: site.baseurl | replace: '//', '/' }}"
 		  data-img-desc-{{ imgnum }}="{{ imginfo[1] }}"
 		{% else %}
-		  data-img-src-{{ imgnum }}="{{ imginfo | prepend: site.baseurl | replace: '//', '/' }}"
+		  data-img-src-{{ imgnum }}="{{ imginfo }}"
 		{% endif %}
 	  {% endfor %}
     {% endfor %}
-  ></div>
+  >
+  </div>
 {% endif %}
 
 <header class="header-section {% if page.bigimg %}has-img{% endif %}">
@@ -34,7 +35,7 @@
 			<h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
 			{% endif %}
 		  {% endif %}
-		  
+
 		  {% if include.type == "post" %}
 		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
 		  {% endif %}
@@ -59,7 +60,7 @@
 			<h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
 			{% endif %}
 		  {% endif %}
-		  
+
 		  {% if include.type == "post" %}
 		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
 		  {% endif %}

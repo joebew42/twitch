@@ -4,6 +4,7 @@ comments: true
 title: 7 months of live coding
 subtitle: What happened after 7 more months of live coding on Twitch? I tried to share some of my own considerations and feedback!
 image: https://images.pexels.com/photos/1188214/pexels-photo-1188214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
+bigimg: https://images.pexels.com/photos/1188214/pexels-photo-1188214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
 ---
 
 # Lack of Daily Journals

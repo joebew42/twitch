@@ -361,12 +361,12 @@ footer .theme-by {
   width: auto;
   background-position-y: 50%;
   background-size: cover;
-  filter: grayscale(40%);
+  filter: opacity(90%);
 }
 .post-image h3.post-subtitle {
-  padding: 6px;
+  padding: 10px;
   background: #6441A4;
-  font-weight: 900;
+  font-weight: 400;
   color: white;
   align-self: flex-end;
   margin: 0;
@@ -486,7 +486,8 @@ footer .theme-by {
 }
 .intro-header.big-img .page-heading .page-subheading,
 .intro-header.big-img .post-heading .post-subheading {
-  font-weight: 400;
+  font-weight: 600;
+  color: #fff;
 }
 .intro-header.big-img .page-heading hr {
   box-shadow: 1px 1px 3px #000;
@@ -513,10 +514,14 @@ footer .theme-by {
   }
   .intro-header.big-img {
     margin-top: 91px;  /* Full navbar is small navbar + 20px padding on each side when expanded */
+    filter: opacity(90%);
   }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading  {
     padding: 150px 0;
+  }
+  .intro-header.big-img .post-heading h1 {
+    color: #fff;
   }
   .intro-header .page-heading h1 {
     font-size: 80px;
@@ -554,6 +559,9 @@ footer .theme-by {
   }
   .header-section.has-img .big-img {
     margin-bottom: 0;
+  }
+  .intro-header.big-img h1 {
+    color: #fff;
   }
 }
 @media only screen and (max-width: 325px) {
