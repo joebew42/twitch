@@ -356,19 +356,20 @@ footer .theme-by {
   width: 100%;
 }
 .post-image {
-  float: right;
-  height: 192px;
-  width: 192px;
-  margin-top: -35px;
-  filter: grayscale(90%);
+  display: flex;
+  height: 280px;
+  width: auto;
+  background-position-y: 50%;
+  background-size: cover;
+  filter: grayscale(40%);
 }
-.post-image:hover {
-  filter: grayscale(0%);
-}
-.post-image img {
-  border-radius: 100px;
-  height: 192px;
-  width: 192px;
+.post-image h3.post-subtitle {
+  padding: 6px;
+  background: #6441A4;
+  font-weight: 900;
+  color: white;
+  align-self: flex-end;
+  margin: 0;
 }
 .post-preview .post-read-more {
   font-weight: 800;
