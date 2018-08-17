@@ -18,9 +18,8 @@ use-site-title: true
 
     {% if post.image %}
     <a href="{{ post.url | prepend: site.baseurl }}">
-      <div class="post-image" style="background-image: url({{ post.image }})">
-        <h3 class="post-subtitle">{{ post.subtitle }}</h3>
-      </div>
+      <div class="post-image" style="background-image: url({{ post.image }})"></div>
+      <h2 class="post-subtitle">{{ post.subtitle }}</h2>
     </a>
     {% else %}
     <a href="{{ post.url | prepend: site.baseurl }}">

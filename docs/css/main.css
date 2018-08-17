@@ -356,19 +356,11 @@ footer .theme-by {
   width: 100%;
 }
 .post-image {
-  display: flex;
   height: 280px;
   width: auto;
   background-position-y: 50%;
   background-size: cover;
-}
-.post-image h3.post-subtitle {
-  padding: 10px;
-  background: #6441A4;
-  font-weight: 400;
-  color: white;
-  align-self: flex-end;
-  margin: 0;
+  margin-bottom: 10pt;
 }
 .post-preview .post-read-more {
   font-weight: 800;
@@ -463,6 +455,9 @@ footer .theme-by {
   color: #FFF;
   text-shadow: 1px 1px 3px #000;
 }
+.intro-header.big-img .post-heading h1 {
+  color: #fff;
+}
 .intro-header .page-heading h1 {
   margin-top: 0;
   font-size: 50px;
@@ -518,9 +513,6 @@ footer .theme-by {
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading  {
     padding: 150px 0;
-  }
-  .intro-header.big-img .post-heading h1 {
-    color: #fff;
   }
   .intro-header .page-heading h1 {
     font-size: 80px;
